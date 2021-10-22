@@ -1,44 +1,45 @@
 {
   "items": [
     {
-      "dvbcEnabled": "false",
       "serviceIdentifier": "DRARK",
+      "dvbcEnabled": "false",
       "ottEnabled": "false",
       "ipMulticastEnabled": "false"
     },
     {
-      "dvbcEnabled": "false",
       "serviceIdentifier": "WEBTV",
+      "dvbcEnabled": "false",
       "ottEnabled": "false",
       "ipMulticastEnabled": "false"
     },
     {
-      "dvbcEnabled": "false",
       "serviceIdentifier": "SFFPLUS",
+      "dvbcEnabled": "false",
       "ottEnabled": "false",
       "ipMulticastEnabled": "false"
     },
     {
-      "dvbcEnabled": "false",
       "serviceIdentifier": "SFF",
+      "dvbcEnabled": "false",
       "ottEnabled": "false",
       "ipMulticastEnabled": "false"
     },
     {
-      "dvbcEnabled": "false",
+      
       "serviceIdentifier": "PMNWARK",
+      "dvbcEnabled": "false",
       "ottEnabled": "false",
       "ipMulticastEnabled": "false"
     },
     {
-      "dvbcEnabled": "false",
       "serviceIdentifier": "NABOARK",
+      "dvbcEnabled": "false",
       "ottEnabled": "false",
       "ipMulticastEnabled": "false"
     },
     {
-      "dvbcEnabled": "false",
       "serviceIdentifier": "MYMTVARK",
+      "dvbcEnabled": "false",
       "ottEnabled": "false",
       "ipMulticastEnabled": "false"
     }
