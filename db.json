@@ -1,22 +1,46 @@
 {
-  "employees": [
+  "items": [
     {
-      "id": 1,
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com"
+      "dvbcEnabled": "false",
+      "serviceIdentifier": "DRARK",
+      "ottEnabled": "false",
+      "ipMulticastEnabled": "false"
     },
     {
-      "id": 2,
-      "first_name": "Steve",
-      "last_name": "Palmer",
-      "email": "steve@codingthesmartway.com"
+      "dvbcEnabled": "false",
+      "serviceIdentifier": "WEBTV",
+      "ottEnabled": "false",
+      "ipMulticastEnabled": "false"
     },
     {
-      "id": 3,
-      "first_name": "Ann",
-      "last_name": "Smith",
-      "email": "ann@codingthesmartway.com"
+      "dvbcEnabled": "false",
+      "serviceIdentifier": "SFFPLUS",
+      "ottEnabled": "false",
+      "ipMulticastEnabled": "false"
+    },
+    {
+      "dvbcEnabled": "false",
+      "serviceIdentifier": "SFF",
+      "ottEnabled": "false",
+      "ipMulticastEnabled": "false"
+    },
+    {
+      "dvbcEnabled": "false",
+      "serviceIdentifier": "PMNWARK",
+      "ottEnabled": "false",
+      "ipMulticastEnabled": "false"
+    },
+    {
+      "dvbcEnabled": "false",
+      "serviceIdentifier": "NABOARK",
+      "ottEnabled": "false",
+      "ipMulticastEnabled": "false"
+    },
+    {
+      "dvbcEnabled": "false",
+      "serviceIdentifier": "MYMTVARK",
+      "ottEnabled": "false",
+      "ipMulticastEnabled": "false"
     }
   ]
 }
