@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "serviceIdentifier": "DRARK",
+      "serviceIdentifier": 1,
       "dvbcEnabled": "false",
       "ottEnabled": "false",
       "ipMulticastEnabled": "false"
